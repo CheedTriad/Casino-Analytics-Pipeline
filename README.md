@@ -1,6 +1,6 @@
 # Casino Analytics Pipeline
 
-An end-to-end analytics pipeline that extends what a venue management platform already captures — turning operational CRM data into machine efficiency rankings, member behaviour analysis, and a weekly churn prediction model.
+An end-to-end analytics pipeline that extends what a venue management platform already captures, turning operational CRM data into machine efficiency rankings, member behaviour analysis, and a weekly churn prediction model.
 
 Built from first-hand operational knowledge as an Electronic Gaming Host, using synthetic data modelled from real platform outputs. The pipeline is production-ready: connecting it to a live export requires no new code.
 
